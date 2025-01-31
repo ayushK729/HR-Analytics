@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 18px;">
+<p align="center" style="font-size: 28px;">
   # HR Analytics Project - AtliQ Hardwares
 </p>
 
