@@ -1,6 +1,4 @@
-<p align="center" style="font-size: 28px;">
-  # HR Analytics Project - AtliQ Hardwares
-</p>
+# HR Analytics Project - AtliQ Hardwares
 
 ## Problem Statement
 AtliQ Hardwares, a hardware sales company in India, observed a decline in productivity and irregular employee attendance patterns. The HR department tasked the Data Analysis team to investigate and provide insights through a comprehensive dashboard using attendance data from April to May 2022.
